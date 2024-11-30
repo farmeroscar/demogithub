@@ -1,3 +1,47 @@
 apiVersion: v1
-entries: {}
-generated: "2024-11-29T22:06:27.375429898+01:00"
+entries:
+  example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-30T09:32:51.638221263+01:00"
+    description: A Helm chart for Kubernetes
+    digest: d4f67df2cb8d6b40a7dcc3a5df2d1fcfd0e53e076b24e64763eb8e4c1e43915a
+    name: example
+    type: application
+    urls:
+    - https://farmeroscar.github.io/demogithub/example-0.1.0.tgz
+    version: 0.1.0
+  example2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-30T09:32:51.638576544+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 9504747c020dc0f68a8911ce4b58db3841e66a23d1e80cc95004b3788240b406
+    name: example2
+    type: application
+    urls:
+    - https://farmeroscar.github.io/demogithub/example2-0.1.0.tgz
+    version: 0.1.0
+  example3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-30T09:32:51.639038047+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0a41c3188e423a245d04e9043e094cb41f913097ac3e03f0d4ba0dcb0924cec4
+    name: example3
+    type: application
+    urls:
+    - https://farmeroscar.github.io/demogithub/example3-0.1.0.tgz
+    version: 0.1.0
+  example4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-30T09:32:51.639421881+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 8c65264652652924a7aaabcf455bb9f0fe65c660b2a5a9dfbdc697de28d48f19
+    name: example4
+    type: application
+    urls:
+    - https://farmeroscar.github.io/demogithub/example4-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-30T09:32:51.636280381+01:00"
